@@ -19,7 +19,7 @@ Pequeno exemplo infográfico sobre café
 
 ###  Demonstração 💻
 
-![gif](https://github.com/katiacih/wildbeast/blob/main/res/wildbeast.gif)
+![gif](https://github.com/katiacih/InfograficoCafe/blob/main/assets/demo.gif)
 
 
 #  Autor 👩🏻‍💻
