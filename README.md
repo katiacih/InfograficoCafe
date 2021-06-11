@@ -4,7 +4,7 @@
 [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
 
 
-# Infografico Cafe
+# Informativo sobre Cafe
 Pequeno exemplo infográfico sobre café
 
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
